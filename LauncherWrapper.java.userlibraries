@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="Maven: com.google.protobuf:protobuf-java:3.21.9">
+    <archive path="C:/Users/Shalom/.m2/repository/com/google/protobuf/protobuf-java/3.21.9/protobuf-java-3.21.9.jar" />
+    <archive path="C:/Users/Shalom/Documents/LauncherWrapperDone.java/Cafe-SystemComplete/src/main/resources/JarFiles/ecj-4.3.1.jar" />
+    <archive path="C:/Users/Shalom/Documents/LauncherWrapperDone.java/Cafe-SystemComplete/src/main/resources/JarFiles/core-2.3.0.jar" />
+    <archive path="C:/Users/Shalom/Documents/LauncherWrapperDone.java/Cafe-SystemComplete/src/main/resources/JarFiles/icu4j-57.1.jar" />
+    <archive path="C:/Users/Shalom/Documents/LauncherWrapperDone.java/Cafe-SystemComplete/src/main/resources/JarFiles/stax-1.2.0.jar" />
+    <archive path="C:/Users/Shalom/Documents/LauncherWrapperDone.java/Cafe-SystemComplete/src/main/resources/JarFiles/javax.inject-1.jar" />
+    <archive path="C:/Users/Shalom/Documents/LauncherWrapperDone.java/Cafe-SystemComplete/src/main/resources/JarFiles/jcommon-1.0.23.jar" />
+    <archive path="C:/Users/Shalom/Documents/LauncherWrapperDone.java/Cafe-SystemComplete/src/main/resources/JarFiles/stax-api-1.0-2.jar" />
+    <archive path="C:/Users/Shalom/Documents/LauncherWrapperDone.java/Cafe-SystemComplete/src/main/resources/JarFiles/stax-api-1.0.1.jar" />
+    <archive path="C:/Users/Shalom/Documents/LauncherWrapperDone.java/Cafe-SystemComplete/src/main/resources/JarFiles/aopalliance-1.0.jar" />
+    <archive path="C:/Users/Shalom/Documents/LauncherWrapperDone.java/Cafe-SystemComplete/src/main/resources/JarFiles/itext-2.1.7.js5.jar" />
+    <archive path="C:/Users/Shalom/Documents/LauncherWrapperDone.java/Cafe-SystemComplete/src/main/resources/JarFiles/bcmail-jdk14-138.jar" />
+    <archive path="C:/Users/Shalom/Documents/LauncherWrapperDone.java/Cafe-SystemComplete/src/main/resources/JarFiles/bcprov-jdk14-138.jar" />
+    <archive path="C:/Users/Shalom/Documents/LauncherWrapperDone.java/Cafe-SystemComplete/src/main/resources/JarFiles/bctsp-jdk14-1.38.jar" />
+    <archive path="C:/Users/Shalom/Documents/LauncherWrapperDone.java/Cafe-SystemComplete/src/main/resources/JarFiles/castor-xml-1.3.3.jar" />
+    <archive path="C:/Users/Shalom/Documents/LauncherWrapperDone.java/Cafe-SystemComplete/src/main/resources/JarFiles/commons-lang-2.6.jar" />
+    <archive path="C:/Users/Shalom/Documents/LauncherWrapperDone.java/Cafe-SystemComplete/src/main/resources/JarFiles/bcmail-jdk14-1.38.jar" />
+    <archive path="C:/Users/Shalom/Documents/LauncherWrapperDone.java/Cafe-SystemComplete/src/main/resources/JarFiles/bcprov-jdk14-1.38.jar" />
+    <archive path="C:/Users/Shalom/Documents/LauncherWrapperDone.java/Cafe-SystemComplete/src/main/resources/JarFiles/castor-core-1.3.3.jar" />
+    <archive path="C:/Users/Shalom/Documents/LauncherWrapperDone.java/Cafe-SystemComplete/src/main/resources/JarFiles/jfreechart-1.0.19.jar" />
+    <archive path="C:/Users/Shalom/Documents/LauncherWrapperDone.java/Cafe-SystemComplete/src/main/resources/JarFiles/lucene-core-4.5.1.jar" />
+    <archive path="C:/Users/Shalom/Documents/LauncherWrapperDone.java/Cafe-SystemComplete/src/main/resources/JarFiles/jackson-core-2.1.4.jar" />
+    <archive path="C:/Users/Shalom/Documents/LauncherWrapperDone.java/Cafe-SystemComplete/src/main/resources/JarFiles/jakarta-regexp-1.4.jar" />
+    <archive path="C:/Users/Shalom/Documents/LauncherWrapperDone.java/Cafe-SystemComplete/src/main/resources/JarFiles/jasperreports-6.3.0.jar" />
+    <archive path="C:/Users/Shalom/Documents/LauncherWrapperDone.java/Cafe-SystemComplete/src/main/resources/JarFiles/commons-digester-2.1.jar" />
+    <archive path="C:/Users/Shalom/Documents/LauncherWrapperDone.java/Cafe-SystemComplete/src/main/resources/JarFiles/lucene-queries-4.5.1.jar" />
+    <archive path="C:/Users/Shalom/Documents/LauncherWrapperDone.java/Cafe-SystemComplete/src/main/resources/JarFiles/lucene-sandbox-4.5.1.jar" />
+    <archive path="C:/Users/Shalom/Documents/LauncherWrapperDone.java/Cafe-SystemComplete/src/main/resources/JarFiles/commons-logging-1.1.1.jar" />
+    <archive path="C:/Users/Shalom/Documents/LauncherWrapperDone.java/Cafe-SystemComplete/src/main/resources/JarFiles/olap4j-0.9.7.309-JS-3.jar" />
+    <archive path="C:/Users/Shalom/Documents/LauncherWrapperDone.java/Cafe-SystemComplete/src/main/resources/JarFiles/jackson-databind-2.1.4.jar" />
+    <archive path="C:/Users/Shalom/Documents/LauncherWrapperDone.java/Cafe-SystemComplete/src/main/resources/JarFiles/commons-beanutils-1.9.0.jar" />
+    <archive path="C:/Users/Shalom/Documents/LauncherWrapperDone.java/Cafe-SystemComplete/src/main/resources/JarFiles/lucene-queryparser-4.5.1.jar" />
+    <archive path="C:/Users/Shalom/Documents/LauncherWrapperDone.java/Cafe-SystemComplete/src/main/resources/JarFiles/spring-aop-3.0.6.RELEASE.jar" />
+    <archive path="C:/Users/Shalom/Documents/LauncherWrapperDone.java/Cafe-SystemComplete/src/main/resources/JarFiles/spring-asm-3.0.6.RELEASE.jar" />
+    <archive path="C:/Users/Shalom/Documents/LauncherWrapperDone.java/Cafe-SystemComplete/src/main/resources/JarFiles/commons-collections-3.2.2.jar" />
+    <archive path="C:/Users/Shalom/Documents/LauncherWrapperDone.java/Cafe-SystemComplete/src/main/resources/JarFiles/jackson-annotations-2.1.4.jar" />
+    <archive path="C:/Users/Shalom/Documents/LauncherWrapperDone.java/Cafe-SystemComplete/src/main/resources/JarFiles/spring-core-3.0.6.RELEASE.jar" />
+    <archive path="C:/Users/Shalom/Documents/LauncherWrapperDone.java/Cafe-SystemComplete/src/main/resources/JarFiles/jasperreports-fonts-6.17.0.jar" />
+    <archive path="C:/Users/Shalom/Documents/LauncherWrapperDone.java/Cafe-SystemComplete/src/main/resources/JarFiles/spring-beans-3.0.6.RELEASE.jar" />
+    <archive path="C:/Users/Shalom/Documents/LauncherWrapperDone.java/Cafe-SystemComplete/src/main/resources/JarFiles/spring-context-3.0.6.RELEASE.jar" />
+    <archive path="C:/Users/Shalom/Documents/LauncherWrapperDone.java/Cafe-SystemComplete/src/main/resources/JarFiles/jasperreports-javaflow-6.16.0.jar" />
+    <archive path="C:/Users/Shalom/Documents/LauncherWrapperDone.java/Cafe-SystemComplete/src/main/resources/JarFiles/lucene-analyzers-common-4.5.1.jar" />
+    <archive path="C:/Users/Shalom/Documents/LauncherWrapperDone.java/Cafe-SystemComplete/src/main/resources/JarFiles/spring-expression-3.0.6.RELEASE.jar" />
+  </library>
+  <library name="Maven: de.jensd:fontawesomefx:8.2">
+    <archive path="C:/Users/Shalom/.m2/repository/de/jensd/fontawesomefx/8.2/fontawesomefx-8.2.jar" />
+  </library>
+  <library name="Maven: com.jfoenix:jfoenix:9.0.10">
+    <archive path="C:/Users/Shalom/.m2/repository/com/jfoenix/jfoenix/9.0.10/jfoenix-9.0.10.jar" />
+  </library>
+  <library name="Maven: com.mysql:mysql-connector-j:8.0.33">
+    <archive path="C:/Users/Shalom/.m2/repository/com/mysql/mysql-connector-j/8.0.33/mysql-connector-j-8.0.33.jar" />
+  </library>
+  <library name="Maven: org.openjfx:javafx-graphics:17.0.6">
+    <archive path="C:/Users/Shalom/.m2/repository/org/openjfx/javafx-graphics/17.0.6/javafx-graphics-17.0.6.jar" />
+  </library>
+  <library name="Maven: org.openjfx:javafx-graphics:win:17.0.6">
+    <archive path="C:/Users/Shalom/.m2/repository/org/openjfx/javafx-graphics/17.0.6/javafx-graphics-17.0.6-win.jar" />
+  </library>
+  <library name="Maven: org.openjfx:javafx-controls:17.0.6">
+    <archive path="C:/Users/Shalom/.m2/repository/org/openjfx/javafx-controls/17.0.6/javafx-controls-17.0.6.jar" />
+  </library>
+  <library name="Maven: org.openjfx:javafx-controls:win:17.0.6">
+    <archive path="C:/Users/Shalom/.m2/repository/org/openjfx/javafx-controls/17.0.6/javafx-controls-17.0.6-win.jar" />
+  </library>
+  <library name="Maven: org.openjfx:javafx-fxml:17.0.6">
+    <archive path="C:/Users/Shalom/.m2/repository/org/openjfx/javafx-fxml/17.0.6/javafx-fxml-17.0.6.jar" />
+  </library>
+  <library name="Maven: org.openjfx:javafx-fxml:win:17.0.6">
+    <archive path="C:/Users/Shalom/.m2/repository/org/openjfx/javafx-fxml/17.0.6/javafx-fxml-17.0.6-win.jar" />
+  </library>
+  <library name="Maven: org.openjfx:javafx-base:17.0.6">
+    <archive path="C:/Users/Shalom/.m2/repository/org/openjfx/javafx-base/17.0.6/javafx-base-17.0.6.jar" />
+  </library>
+  <library name="Maven: org.openjfx:javafx-base:win:17.0.6">
+    <archive path="C:/Users/Shalom/.m2/repository/org/openjfx/javafx-base/17.0.6/javafx-base-17.0.6-win.jar" />
+  </library>
+</eclipse-userlibraries>
+

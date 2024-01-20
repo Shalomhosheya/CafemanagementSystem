@@ -1,0 +1,81 @@
+create database CafeManagementSystem;
+
+use  CafeManagementSystem;
+
+create table Customer(
+cust_id varchar(40)primary key,
+Name varchar(50),
+Date_of_birth int(50)
+);
+
+CREATE TABLE orders (
+    O_id varchar(20) primary key,
+    Date date,
+    Time varchar(50),
+    cust_id varchar(40),
+foreign key(cust_id) references Customer(cust_id),
+Item_id varchar(40),
+    foreign key(Item_id) references Item(Item_id)
+);
+
+CREATE TABLE payment(
+    payment_no varchar(20) primary key,
+    Date date,
+    Price varchar(50),
+    O_id varchar(20),
+    foreign key(O_id) references orders(O_id),
+    user_id varchar(20),
+    foreign key(user_id) references user(user_id)
+);
+
+CREATE TABLE receipt(
+    receipt_no varchar(100) primary key,
+    Amount varchar(50),
+    payment_no varchar(20),
+    foreign key(payment_no) references payment(payment_no)
+);
+CREATE TABLE supplier(
+    sup_id varchar(100) primary key,
+    Name varchar(50),
+    FoodType varchar(40)
+);
+
+CREATE TABLE Item(
+    item_id varchar(100) primary key,
+Foodtype varchar(50),
+price varchar(40),
+     sup_id varchar(100),
+    foreign key(sup_id) references supplier(sup_id)
+);
+CREATE TABLE user(
+    user_id varchar(100) primary key,
+age int(50),
+name varchar(40),
+     item_id varchar(100),
+foreign key(item_id) references Item(item_id),
+emp_id varchar(100),
+    foreign key(emp_id) references employee(emp_id)
+);
+CREATE TABLE employee(
+    emp_id varchar(100) primary key,
+date_of_birth date,
+Name varchar(40),
+Age int(20)
+);
+CREATE TABLE Attendance(
+    At_id varchar(100) primary key,
+date date,
+Time varchar(40),
+emp_id varchar(100),
+    foreign key(emp_id) references employee(emp_id)
+);
+CREATE TABLE Salary(
+    salary_no varchar(100) primary key,
+Amount date,
+emp_id varchar(100),
+    foreign key(emp_id) references employee(emp_id)
+);
+
+
+
+
